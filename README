@@ -1,0 +1,7 @@
+JD - Java Deconstructor
+-----------------------
+
+A library for taking Java objects to bits.
+
+License: MIT (see LICENSE file)
+Author: Dominic Fox <dominic.fox@gmail.com>
