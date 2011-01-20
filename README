@@ -1,4 +1,4 @@
-JD - Java Deconstructor
+Jacques - Java Deconstructor
 -----------------------
 
 A library for taking Java objects to bits.
@@ -6,7 +6,7 @@ A library for taking Java objects to bits.
 License: MIT (see LICENSE file)
 Author: Dominic Fox <dominic.fox@gmail.com>
 
-JD enables you to use a Key (a pointer to a field of some class, or a node in some data structure) to create an Accessor which can then be passed around and used to get or set the value referenced by that Key. Accessors can be bound to instances to create Properties, or to values to create Assigners:
+Jacques enables you to use a Key (a pointer to a field of some class, or a node in some data structure) to create an Accessor which can then be passed around and used to get or set the value referenced by that Key. Accessors can be bound to instances to create Properties, or to values to create Assigners:
 
 Accessor<Person, String> NAME = accessor(Person.class, "name");
 Person me = new Person("Dominic");
