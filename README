@@ -3,7 +3,7 @@ Jacques - Java Deconstructor
 
 A library for taking Java objects to bits.
 
-Most of the interesting bits of this are now in the (karg project)[http://github.com/youdevise/karg].
+Most of the interesting bits of this are now in the karg project: http://github.com/youdevise/karg.
 
 License: MIT (see LICENSE file)
 Author: Dominic Fox <dominic.fox@gmail.com>
